@@ -2,7 +2,7 @@
 
 Python code for master thesis, including a data extraction pipeline, labeling functions and transformer fine-tuning.
 
----
+Text sections embedded in annual reports might contain predictive information regarding the stock price development. The code is a suggestion of how to extract the text sections, a lableing approach and applies a deep learning model. 
 
 ### Pipeline
 

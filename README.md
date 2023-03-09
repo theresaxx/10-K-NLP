@@ -2,11 +2,14 @@
 
 Python code for master thesis, including a data extraction pipeline, labeling functions and transformer fine-tuning.
 
+---
+
 ### Pipeline
 
 - Retrival of the filing URLs
-- Extract the filing date
+- Extraction of the filing date
 - Stock and Index Price retrival from the yahoo query API
+- Labeling of the dataset (Stock Price Change in relation to the Index Price Change during the same period)
 - Parsing the text sections Item 1A, 7 and 7A
 - Parsing quality check
 
